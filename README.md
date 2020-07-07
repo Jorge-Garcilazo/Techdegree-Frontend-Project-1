@@ -1,2 +1,1 @@
-# Techdegree-Frontend-Project-1
- My first project
+# Techdegree Frontend Project 1
