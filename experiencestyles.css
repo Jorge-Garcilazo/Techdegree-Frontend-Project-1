@@ -1,4 +1,4 @@
-/* Global Layout Set-up */
+/* Taken from original project files// edited a few different things */
 * {
   box-sizing: border-box;
 }
@@ -177,12 +177,6 @@ a.social:hover {
     max-width: 1200px;
     padding: 0 30px;
   }
-
-/* body{
-  background: url('images/code.jpg') no-repeat top center;
-  background-size: cover;
-  overflow: hidden; */
-}
   main {
     padding-top: 20px;
   }
