@@ -169,7 +169,8 @@ a.social:hover {
   }
 
   header {
-    min-height: 200px;
+    min-height: 250px;
+    border-bottom:solid black 2px;
   }
 
   .nav {
