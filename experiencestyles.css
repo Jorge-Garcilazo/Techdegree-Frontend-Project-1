@@ -54,14 +54,12 @@ a:hover {
 .nav a:hover {
   color: white
 }
-
 header {
   text-align: center;
   background: url('images/code.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  height: 20px;
 }
 header {
   line-height: 1.5;
@@ -171,7 +169,7 @@ a.social:hover {
   }
 
   header {
-    min-height: 470px;
+    min-height: 200px;
   }
 
   .nav {
@@ -179,7 +177,11 @@ a.social:hover {
     padding: 0 30px;
   }
 
-
+/* body{
+  background: url('images/code.jpg') no-repeat top center;
+  background-size: cover;
+  overflow: hidden; */
+}
   main {
     padding-top: 20px;
   }
