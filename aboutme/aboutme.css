@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/alamo.png') no-repeat top center ;
+  background: url('../images/sky.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -178,7 +178,7 @@ a.social:hover {
   }
 
   header {
-    min-height: 470px;
+    height: 250px;
   }
 
   .nav {
