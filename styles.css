@@ -21,6 +21,14 @@ a:hover {
   color: #6633ff;
 }
 
+.experience-link {
+  color: blue;
+}
+
+.experience-link:hover {
+  color: purple;
+}
+
 /* Section Styles */
 
 .main-nav {
